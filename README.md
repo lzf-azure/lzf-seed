@@ -1,3 +1,6 @@
-# Seed repository for each new Projects Landing Zone Factory
+# This is your projects Landing Zone Factory
 
-Bootstrap will fork this repo into the project organization, and make the necessary changes to connect with TFE. 
+Landing zone factory defines all your GH resources like
+* users
+* code repositories
+* additional setting
