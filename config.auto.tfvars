@@ -1,5 +1,5 @@
 developers = {
-    "myghuser"  =   "firstname.lastname@somedomain.com"
+    # "myghuser"  =   "firstname.lastname@somedomain.com"
 }
 
 # projectName =   "myproject"
