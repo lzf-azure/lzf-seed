@@ -1,3 +1,4 @@
 provider "github" {
-    token   =   var.github_pat
+#export GITHUB_TOKEN=ghp_lsadkjh...
+#export GITHUB_OWNER=the target organization
 }
